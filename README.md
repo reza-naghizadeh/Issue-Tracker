@@ -36,7 +36,7 @@ A lightweight and efficient application for tracking IT issues and storing their
 ## 🚀 Getting Started
 
 ### 1️⃣ Download
-- Grab the appropriate executable for **macOS** or **Windows** from the [Releases](#) section.
+- Grab the appropriate executable for **macOS** or **Windows** from the Releases section.
 
 ### 2️⃣ Run
 - Open the downloaded file—no installation needed!
